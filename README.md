@@ -11,7 +11,7 @@ It’s written to **stand out for recruiters + devs** 🚀
 
 ## 🚀 Live Demo
 
-👉 *[Add your deployed link here]*
+👉 *[https://kavya-forkify.netlify.app/]*
 
 ---
 

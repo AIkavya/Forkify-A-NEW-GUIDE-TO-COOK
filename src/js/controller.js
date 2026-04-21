@@ -14,8 +14,7 @@ import 'regenerator-runtime/runtime';
 
 
 
-// NEW API URL (instead of the one shown in the video)
-// https://forkify-api.jonas.io
+
 
 ///////////////////////////////////////
 if (module.hot) {

@@ -147,12 +147,6 @@ npm run build
 
 ---
 
-## 📸 Screenshots
-
-*(Add your project screenshots here for better impact)*
-
----
-
 ## 🎯 Key Highlights
 
 * 🔥 Fully modular JavaScript application

@@ -1,7 +1,3 @@
-Here’s a **clean, professional, and GitHub-ready README.md** for your **Forkify project** (from Udemy course by Jonas Schmedtmann).
-It’s written to **stand out for recruiters + devs** 🚀
-
----
 
 # 🍴 Forkify — Modern Recipe Application
 
